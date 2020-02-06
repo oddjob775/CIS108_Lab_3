@@ -1,2 +1,3 @@
 ﻿  Cylinder Code.cpp
+C:\Users\Troy\Documents\Coding\C++\Chapter 5\Cylinder Code\Cylinder Code.cpp(25,26): warning C4305: 'initializing': truncation from 'double' to 'float'
   Cylinder Code.vcxproj -> C:\Users\Troy\Documents\Coding\C++\Chapter 5\Cylinder Code\Debug\Cylinder Code.exe

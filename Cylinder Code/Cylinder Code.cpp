@@ -22,6 +22,8 @@ using std::setw;
 int main()
 
 {
+    const float pi = 3.14;
+
     double  CylinderRadius,
             CylinderHeight,
             CylinderVolume;
@@ -31,7 +33,7 @@ int main()
     cout << "\nEnter the height of the cylinder: ";
     cin >> CylinderHeight;
 
-    CylinderVolume = CylinderRadius * CylinderHeight;
+    CylinderVolume = (CylinderRadius * CylinderRadius) * pi * CylinderHeight;
     
     cout << "\nThe volume of your Cylinder is: ";
     cout << CylinderVolume << endl;
